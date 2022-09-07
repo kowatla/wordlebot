@@ -1,0 +1,6 @@
+// fixing yellow to not show words that have that letter at that position
+// mass input
+// choose a random word to start game
+// not to print the full word list if it is empty
+// print the information that is collected
+// remove information from the collected list
